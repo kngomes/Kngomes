@@ -11,7 +11,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### 🤖 Linguagens e Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
