@@ -11,6 +11,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <p align="left">Hello World!!<br><br>Hi, I'm Kaique 👋  <br><br>I'm a front-end developer focused on building clean, responsive, and well-structured web interfaces.<br><br>I enjoy understanding how things work under the hood, from JavaScript logic and DOM manipulation to layout structure and user experience. I’m currently strengthening my fundamentals while transitioning to more modern tools like React and Next.js.<br><br>Here on my GitHub, you’ll find projects that reflect my learning process, experiments, and continuous improvement as a developer.</p>
 
 <div align="center">
