@@ -14,9 +14,14 @@
 <p align="left">Hello World!!<br><br>Hi, I'm Kaique 👋  <br><br>I'm a front-end developer focused on building clean, responsive, and well-structured web interfaces.<br><br>I enjoy understanding how things work under the hood, from JavaScript logic and DOM manipulation to layout structure and user experience. I’m currently strengthening my fundamentals while transitioning to more modern tools like React and Next.js.<br><br>Here on my GitHub, you’ll find projects that reflect my learning process, experiments, and continuous improvement as a developer.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/kngomes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ka.gomes__" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
+
 
 ### 🤖 Linguagens e Tecnologias
 
