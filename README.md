@@ -5,14 +5,22 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -24,15 +32,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kngomes/kngomes/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="left">Hello World!!<br><br>Hi, I'm Kaique 👋  <br><br>I'm a front-end developer focused on building clean, responsive, and well-structured web interfaces.<br><br>I enjoy understanding how things work under the hood — from JavaScript logic and DOM manipulation to layout structure and user experience. I’m currently strengthening my fundamentals while transitioning to more modern tools like React and Next.js.<br><br>Here on my GitHub, you’ll find projects that reflect my learning process, experiments, and continuous improvement as a developer.</p>
+<p align="left">Hello World!!<br><br>Hi, I'm Kaique 👋  <br><br>I'm a front-end developer focused on building clean, responsive, and well-structured web interfaces.<br><br>I enjoy understanding how things work under the hood, from JavaScript logic and DOM manipulation to layout structure and user experience. I’m currently strengthening my fundamentals while transitioning to more modern tools like React and Next.js.<br><br>Here on my GitHub, you’ll find projects that reflect my learning process, experiments, and continuous improvement as a developer.</p>
 
 ###
 
