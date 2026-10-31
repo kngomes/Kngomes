@@ -1,6 +1,6 @@
 ## Kaique Gomes
 
-**`Desenvolvedor FullStack`**
+**`Data Engineering`**
 
 
 ###
@@ -13,7 +13,17 @@
 
 ###
 
-<p align="left">Hello World!!<br><br>Hi, I'm Kaique 👋  <br><br>I'm a front-end developer focused on building clean, responsive, and well-structured web interfaces.<br><br>I enjoy understanding how things work under the hood, from JavaScript logic and DOM manipulation to layout structure and user experience. I’m currently strengthening my fundamentals while transitioning to more modern tools like React and Next.js.<br><br>Here on my GitHub, you’ll find projects that reflect my learning process, experiments, and continuous improvement as a developer.</p>
+ <p align="left">
+  Hello World! 👋
+  <br><br>
+  Hi, I'm Kaique!
+  <br><br>
+  I'm a Junior Data Engineer focused on building a strong foundation in SQL, Python, and data management.
+  <br><br>
+  I'm interested in understanding how data is collected, stored, transformed, and processed through different systems. I'm currently expanding my knowledge of databases, ETL/ELT processes, data pipelines, and data warehousing.
+  <br><br>
+  Here on my GitHub, you'll find projects and experiments that showcase my technical growth, problem-solving skills, and journey in Data Engineering.
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kngomes/" target="_blank">
@@ -25,16 +35,14 @@
 </div>
 
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Languages & Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo"/>
 </div>
 
 ###
